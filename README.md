@@ -1,6 +1,2 @@
-[index.html](https://github.com/user-attachments/files/33198297/index.html)
-# Davet.github.io[README.md](https://github.com/user-attachments/files/33198299/README.md)[data.js](https://github.com/user-attachments/files/33198313/data.js)
-[qrcode.js](https://github.com/user-attachments/files/33198314/qrcode.js)[app.js](https://github.com/user-attachments/files/33198320/app.js)
-[styles.css](https://github.com/user-attachments/files/33198317/styles.css)
-[site.js](https://github.com/user-attachments/files/33198316/site.js)
-[site.css](https://github.com/user-attachments/files/33198315/site.css)
+[index.html](https://github.com/user-attachments/files/33198401/index.html)[Uploading index.htm[README.md](https://github.com/user-attachments/files/33198402/README.md)
+l…]()
